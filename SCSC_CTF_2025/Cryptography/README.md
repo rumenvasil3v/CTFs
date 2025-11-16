@@ -5,11 +5,6 @@ The problem invloved a program written in C language and I had to guess a random
 ## Tools I used
 - gdb (GNU debugger) to inspect the program and its behaviour
 
-
-This text you see here is **actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.**
-
 ## Vulnerability and Exploitation
 
 The program is an example of how a buffer overflow can be used to modify variables.
